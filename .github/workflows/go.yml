@@ -1,0 +1,9 @@
+git clone https://github.com/your-username/leishen-auto.git
+cd leishen-auto
+# Windows (PowerShell)
+$env:TOKEN="t6pe8ituU0uggSw0hPinKjeV110"
+
+# Linux/macOS
+export TOKEN="t6pe8ituU0uggSw0hPinKjeV110"
+
+go run main.go
